@@ -1,7 +1,5 @@
 # Offensive-Resources V3
-((اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي، وَعَلِّمْنِي مَا يَنْفَعُنِي، وَزِدْنِي عِلْمًا))
 <hr>
-
 # A Huge Learning Resources with Labs For Offensive Security Players.
 <br>
 
